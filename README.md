@@ -47,6 +47,8 @@ ___
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shamsul-al-mazid-073a87286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sondartara.tara.777)
+
 ___
 
 
