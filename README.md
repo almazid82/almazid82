@@ -1,3 +1,10 @@
+### 👤 About Me
+
+<p>
+  <img align="right" src="https://github.com/almazid82/almazid82/blob/main/Screenshot_20250424-211354~2.png?raw=true" width="140" style="border-radius: 15px;" />
+  I’m a passionate Data Analyst in training, working towards my goal of analyzing 100+ datasets.
+  Skilled in Python, SQL, Power BI, and always ready to dive deep into data stories!
+</p>
 
 <h1 align="center">Hi there, I'm Shamsul Al Mazid (@almazid82) 👋</h1>
 
