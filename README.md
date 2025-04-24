@@ -5,16 +5,6 @@
   <em>Aspiring Data Analyst | Python & SQL Enthusiast | Curious Explorer of Data Stories</em>
 </p>
 
----
-
-## 🔍 About Me
-
-- 🎯 Currently learning **Python**, **SQL**, and **Business Intelligence** tools.
-- 🧠 Interested in real-world **data analysis** and creating insights from complex datasets.
-- 💬 Love working on analytical challenges in **finance**, **supply chain**, and **public policy**.
-- 🤝 Always open to collaboration on meaningful data projects.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I treat every dataset like a mystery waiting to be solved!
 
 ---
 ![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&theme=tokyo-night)
@@ -28,8 +18,16 @@ ___
 ___
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=almazid82&theme=darkhub&margin-w=15)
-___
+## 🔍 About Me
+
+- 🎯 Currently learning **Python**, **SQL**, and **Business Intelligence** tools.
+- 🧠 Interested in real-world **data analysis** and creating insights from complex datasets.
+- 💬 Love working on analytical challenges in **finance**, **supply chain**, and **public policy**.
+- 🤝 Always open to collaboration on meaningful data projects.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I treat every dataset like a mystery waiting to be solved!
+
+---
 
 
 ## 📫 Connect With Me
