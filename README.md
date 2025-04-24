@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shamsul Al Mazid</h1>
-<h3 align="center">Let the data speak. I just translate the truth behind the numbers.</h3>
+<h3 align="center">✨Let the data speak. I just translate the truth behind the numbers✨.</h3>
 
 
 <p align="center">
