@@ -30,12 +30,10 @@ ___
 
 <p>
   <img align="right" src="https://github.com/almazid82/almazid82/blob/main/Screenshot_20250424-211354~2.png?raw=true" width="140" style="border-radius: 15px;" />
-  I’m a passionate Data Analyst in training, working towards my goal of analyzing 100+ datasets.
-  Skilled in Python, SQL, Power BI, and always ready to dive deep into data stories!
 </p>
 
 
-- 🎯 Currently learning **Python**, **SQL**, and **Business Intelligence** tools.
+- 🎯 So, Currently learning **Python**, **SQL**, and **Business Intelligence** tools.
 - 🧠 Interested in real-world **data analysis** and creating insights from complex datasets.
 - 💬 Love working on analytical challenges in **finance**, **supply chain**, and **public policy**.
 - 🤝 Always open to collaboration on meaningful data projects.
