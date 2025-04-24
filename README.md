@@ -33,7 +33,7 @@ ___
 </p>
 
 
-- 🎯 So, Currently learning **Python**, **SQL**, and **Business Intelligence** tools.
+- 🎯 Currently learning **Python**, **SQL**, and **Business Intelligence** tools.
 - 🧠 Interested in real-world **data analysis** and creating insights from complex datasets.
 - 💬 Love working on analytical challenges in **finance**, **supply chain**, and **public policy**.
 - 🤝 Always open to collaboration on meaningful data projects.
