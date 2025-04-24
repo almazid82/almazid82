@@ -69,8 +69,9 @@ ___
 Here are some of the projects I'm working on or plan to develop:
 
 - **[HeatMap - Understanding Global Temperature Anomalies](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies)**  
-  🔥 *Visualizing climate change patterns and CO₂ impacts using* `Python`, `Seaborn`, `Pandas`  
-  ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+  🔥 *Visualizing climate change patterns and CO₂ impacts*
+!
+[Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-9E6A9D?style=flat-square)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
