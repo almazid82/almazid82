@@ -17,6 +17,20 @@
 - ⚡ Fun fact: I treat every dataset like a mystery waiting to be solved!
 
 ---
+![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&theme=tokyo-night)
+___
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Data+Analyst;Loves+Python+%26+SQL;Driven+by+Insights)](https://git.io/typing-svg)
+___
+
+![Visitor Count](https://komarev.com/ghpvc/?username=almazid82&color=blue)
+
+___
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=almazid82&theme=darkhub&margin-w=15)
+___
+
 
 ## 📫 Connect With Me
 
