@@ -4,6 +4,10 @@
 <p align="center">
   <em>Aspiring Data Analyst | Python & SQL Enthusiast | Curious Explorer of Data Stories</em>
 </p>
+___ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Aspiring+Data+Analyst;Driven+by+Insights+%26+Impact;SQL+%7C+Python+%7C+Power+BI+%7C+ML+Explorer" alt="Typing SVG" />
+</p>
 
 
 ---
