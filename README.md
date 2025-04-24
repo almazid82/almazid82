@@ -34,15 +34,7 @@ ___
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shamsul-al-mazid-073a87286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
-## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=almazid82&theme=onedark&column=4" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=almazid82&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=almazid82&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
