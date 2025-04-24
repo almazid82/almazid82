@@ -13,8 +13,12 @@
 ---
 ![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&theme=tokyo-night)
 ___
-<p align= "center" >
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=make+it+real;Misson+100data+analysis+%26+I'll+do+it;Driven+by+Insights)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=make+it+real;Mission+100+data+analysis+%26+I'll+do+it;Driven+by+Insights" alt="Typing SVG" />
+  </a>
+</p>
+
 ___
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=almazid82&color=blue)
