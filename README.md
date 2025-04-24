@@ -68,17 +68,27 @@ ___
 
 Here are some of the projects I'm working on or plan to develop:
 
-- **HeatMap - Understanding Global Temperature Anomalies**  
-  *Visualizing climate change patterns and CO₂ impacts using Python & Seaborn*
+- **[HeatMap - Understanding Global Temperature Anomalies](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies)**  
+  🔥 *Visualizing climate change patterns and CO₂ impacts using* `Python`, `Seaborn`, `Pandas`  
+  ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-9E6A9D?style=flat-square)
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- **DemoCraft Analytics**  
-  *Exploring global population growth trends and their socioeconomic impact*
+- **[DemoCraft Analytics](https://github.com/almazid82)**  
+  🌍 *Exploring global population growth trends and their socioeconomic impact*  
+  ![SQL](https://img.shields.io/badge/-SQL-005C84?style=flat-square&logo=sqlite&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-- **Titanic: AI vs Human Decision-Making**  
-  *Using ML to predict survival and applying the model in Bangladeshi maritime context*
+- **[Titanic: AI vs Human Decision-Making](https://github.com/almazid82)**  
+  ⚓ *Using ML to predict survival — with future scope in Bangladeshi maritime decisions*  
+  ![Scikit-Learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-yellow?style=flat-square)
 
-- **COVID-19 Global Pilot Dataset Analysis**  
-  *Learning insights from a pilot version before full dataset exploration*
+- **[COVID-19 Global Pilot Dataset Analysis](https://github.com/almazid82/COVID19-Pilot-Analysis-Ban-vs-Ind-)**  
+  🧪 *Analyzing pilot dataset insights before full-scale COVID-19 data exploration*  
+  ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+  ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-teal?style=flat-square)
+
 
 ---
 
