@@ -108,8 +108,6 @@ Here are some of the projects I'm working on or plan to develop:
 
 ---
 
-*Thanks for visiting! Stay tuned as I keep learning, building, and sharing data-driven insights.*
-___
 
 ### ✨ *Thanks for visiting!*  
 #### Stay tuned as I keep learning, building, and sharing **data-driven insights**.
