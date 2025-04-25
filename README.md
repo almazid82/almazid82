@@ -90,18 +90,6 @@ Here are some of the projects I'm working on or plan to develop:
   ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-teal?style=flat-square)
 
 
----
-details>
-  <summary>Click to expand</summary>
-
-  🔥 *Visualizing climate change patterns and CO₂ impacts*  
-  Tools: Python, Seaborn, Pandas  
-  Key Features:
-  - Seasonal anomaly tracking  
-  - CO₂ vs temperature correlation  
-  - Trend & outlier detection
-
-</details>
 
 
 ---
@@ -121,3 +109,17 @@ details>
 ---
 
 *Thanks for visiting! Stay tuned as I keep learning, building, and sharing data-driven insights.*
+___
+h3 align="center">
+  <span style="color:#FF5733; animation: flicker 1.5s infinite alternate;">Thanks for visiting!</span><br>
+  <span style="color:#3498DB; animation: flicker 1.5s infinite alternate;">Stay tuned as I keep learning, building,</span><br>
+  <span style="color:#2ECC71; animation: flicker 1.5s infinite alternate;">and sharing data-driven insights.</span>
+</h3>
+
+<style>
+@keyframes flicker {
+  0% { opacity: 1; }
+  50% { opacity: 0.6; }
+  100% { opacity: 1; }
+}
+</style>
