@@ -91,6 +91,20 @@ Here are some of the projects I'm working on or plan to develop:
 
 
 ---
+details>
+  <summary>Click to expand</summary>
+
+  🔥 *Visualizing climate change patterns and CO₂ impacts*  
+  Tools: Python, Seaborn, Pandas  
+  Key Features:
+  - Seasonal anomaly tracking  
+  - CO₂ vs temperature correlation  
+  - Trend & outlier detection
+
+</details>
+
+
+---
 
 ## 🛠️ Tools & Technologies
 
