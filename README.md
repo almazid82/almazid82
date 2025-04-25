@@ -110,16 +110,10 @@ Here are some of the projects I'm working on or plan to develop:
 
 *Thanks for visiting! Stay tuned as I keep learning, building, and sharing data-driven insights.*
 ___
-h3 align="center">
-  <span style="color:#FF5733; animation: flicker 1.5s infinite alternate;">Thanks for visiting!</span><br>
-  <span style="color:#3498DB; animation: flicker 1.5s infinite alternate;">Stay tuned as I keep learning, building,</span><br>
-  <span style="color:#2ECC71; animation: flicker 1.5s infinite alternate;">and sharing data-driven insights.</span>
-</h3>
 
-<style>
-@keyframes flicker {
-  0% { opacity: 1; }
-  50% { opacity: 0.6; }
-  100% { opacity: 1; }
-}
-</style>
+### ✨ *Thanks for visiting!*  
+#### Stay tuned as I keep learning, building, and sharing **data-driven insights**.
+
+> _“Turning numbers into narratives that matter.”_
+
+---
