@@ -24,7 +24,7 @@ ___
 
 ___
 
-![Visitor Count](https://komarev.com/ghpvc/?username=almazid82&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=almazid82&color=red)
 
 ___
 
