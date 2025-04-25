@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Shamsul Al Mazid</h1>
 <h3 align="center"> ✨Let the data speak. I just translate the truth behind the numbers✨</span></i></h3>
 
-h3 align="center">
-  <i><span style="color:gray;">✨Let the data speak. I just translate the truth behind the numbers✨
-</h3>
+
 
 <p align="center">
   <em>Aspiring Data Analyst | Python & SQL Enthusiast | Curious Explorer of Data Stories</em>
