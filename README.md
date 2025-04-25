@@ -79,7 +79,7 @@ Here are some of the projects I'm working on or plan to develop:
   ![SQL](https://img.shields.io/badge/-SQL-005C84?style=flat-square&logo=sqlite&logoColor=white)
   ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-- **[Titanic: AI vs Human Decision-Making](https://github.com/almazid82)**  
+- **[Titanic: AI vs Human Decision-Making](https://github.com/almazid82/Titanic_AI_vs_Human_Decision)**  
   ⚓ *Using ML to predict survival — with future scope in Bangladeshi maritime decisions*  
   ![Scikit-Learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-yellow?style=flat-square)
