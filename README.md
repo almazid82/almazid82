@@ -74,7 +74,7 @@ Here are some of the projects I'm working on or plan to develop:
   ![Seaborn](https://img.shields.io/badge/-Seaborn-9E6A9D?style=flat-square)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- **[DemoCraft Analytics](https://github.com/almazid82)**  
+- **[DemoCraft Analytics](https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-)**  
   🌍 *Exploring global population growth trends and their socioeconomic impact*  
   ![SQL](https://img.shields.io/badge/-SQL-005C84?style=flat-square&logo=sqlite&logoColor=white)
   ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
