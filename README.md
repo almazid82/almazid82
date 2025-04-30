@@ -16,7 +16,9 @@
 
 
 ---
-![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&area=true&theme=github-compact&color=FFA500&line=FF6347&point=40E0D0)
+p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almazid82&theme=react-dark&area=true&color=FFA500&line=FF6347&point=40E0D0" alt="mazid's contribution graph"/>
+</p>
 
 ___
 ![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&theme=dracula)
