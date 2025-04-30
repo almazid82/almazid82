@@ -23,8 +23,8 @@
 ___
 
 
- p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Dream+Big.+Start+Small.+Act+Now.;Turn+Your+Dreams+Into+Reality.;Consistency+beats+intensity+every+time." alt="Typing SVG" />
+ 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Dream+Big.+Start+Small.+Act+Now.;Turn+Your+Dreams+Into+Reality.;Consistency+beats+intensity+every+time." alt="Typing SVG" />
 </p>
 
 
