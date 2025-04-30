@@ -16,7 +16,8 @@
 
 
 ---
-![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&theme=tokyo-night)
+![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&area=true&theme=github-compact&color=FFA500&line=FF6347&point=40E0D0)
+
 ___
 ![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&theme=dracula)
 ____
