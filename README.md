@@ -2,8 +2,9 @@
 
 <h3 align="center"> ✨Let the data speak. I just translate the truth behind the numbers✨</span></i></h3>
 
-### My Resume Video
-[Watch My Resume Video](https://github.com/almazid82/almazid82/blob/main/Shamsul%20Al%20Mazid%20resume
+### My Resume Video (Playable)
+[Watch My Resume Video](https://almazid82.github.io/almazid82/video.html)
+
 
 <p align="center">
   <em>Aspiring Data Analyst | Python & SQL Enthusiast | Curious Explorer of Data Stories</em>
