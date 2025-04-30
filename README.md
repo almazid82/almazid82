@@ -2,9 +2,6 @@
 
 <h3 align="center"> ✨Let the data speak. I just translate the truth behind the numbers✨</span></i></h3>
 
-### My Resume Video
-[![Watch the video](https://img.youtube.com/vi/B3q3gMCKAlc/0.jpg)](https://youtu.be/B3q3gMCKAlc)
-
 
 
 <p align="center">
@@ -98,7 +95,10 @@ Here are some of the projects I'm working on or plan to develop:
 
 
 ---
+### My Resume Video
+[![Watch the video](https://img.youtube.com/vi/B3q3gMCKAlc/0.jpg)](https://youtu.be/B3q3gMCKAlc)
 
+___
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
