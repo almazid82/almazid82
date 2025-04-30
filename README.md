@@ -23,8 +23,10 @@
 ___
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Make+Your+Dreams+Real.;Mission+100+Data+Analysis+%26+I'll+Do+It.;Every+Dataset+Hides+a+Story." alt="Typing SVG">
+ p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Dream+Big.+Start+Small.+Act+Now.;Turn+Your+Dreams+Into+Reality.;Consistency+beats+intensity+every+time." alt="Typing SVG" />
 </p>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=almazid82&color=blue&style=flat-square)
