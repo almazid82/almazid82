@@ -22,12 +22,9 @@
 
 ___
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=make+your+dreams+real;Mission+100+data+analysis+%26+I'll+do;Every+Dataset+hides+a+story" alt="Typing SVG" />
-  </a>
+p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Make+Your+Dreams+Real.;Mission+100+Data+Analysis+%26+I'll+Do+It.;Every+Dataset+Hides+a+Story." alt="Typing SVG">
 </p>
-
 ___
 
 ![Profile Views](https://komarev.com/ghpvc/?username=almazid82&color=blue&style=flat-square)
