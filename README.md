@@ -24,7 +24,10 @@ ___
 
 ___
 
-![Visitor Count](https://komarev.com/ghpvc/?username=almazid82&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=almazid82&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/almazid82?label=Followers&style=flat-square)
+![Stars](https://img.shields.io/github/stars/almazid82?label=Stars&style=flat-square)
+
 
 ___
 
