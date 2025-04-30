@@ -18,7 +18,8 @@
 ---
 ![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&theme=tokyo-night)
 ___
-
+![Mazid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazid82&theme=dracula)
+____
 
 <p align="center">
   <a href="https://git.io/typing-svg">
