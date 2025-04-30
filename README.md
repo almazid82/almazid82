@@ -11,7 +11,7 @@
 
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Driven+by+Insights+%26+Impact;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;B.Sc+in+Statistics;Govt.+Titumir+College;University+of+Dhaka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Driven+by+Insights+%26+Impact;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;B.Sc+in+Statistics;Govt.+Titumir+College;University+of+Dhaka" alt="Typing SVG" />
 </p>
 
 
