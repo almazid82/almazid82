@@ -99,7 +99,9 @@ Here are some of the projects I'm working on or plan to develop:
   ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
   ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-teal?style=flat-square)
 ----
-p align="center">
+### My Resume Video
+[![Watch the video](https://img.youtube.com/vi/B3q3gMCKAlc/0.jpg)](https://youtu.be/B3q3gMCKAlc)
+
   <a href="https://youtube.com/shorts/B3q3gMCKAlc?si=hhSwci545-MR4_fd" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Watch+My+Resume+Video+Now!;See+My+Skills+in+Action.;Click+%26+Explore+My+Journey!" alt="Typing SVG" />
   </a>
@@ -108,9 +110,7 @@ p align="center">
 
 
 
----
-### My Resume Video
-[![Watch the video](https://img.youtube.com/vi/B3q3gMCKAlc/0.jpg)](https://youtu.be/B3q3gMCKAlc)
+
 
 ___
 ## 🛠️ Tools & Technologies
