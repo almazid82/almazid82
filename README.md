@@ -99,6 +99,27 @@ Here are some of the projects I'm working on or plan to develop:
   ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
   ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-teal?style=flat-square)
 ----
+
+
+## 🎥 Video Resume – Data Analyst | Python, SQL, Tableau Projects
+
+[![Watch the video](https://img.youtube.com/vi/Y5kURMvjXNI/hqdefault.jpg)](https://youtube.com/shorts/Y5kURMvjXNI?feature=share)
+
+I’m excited to share my updated **video resume**, featuring voice narration, dynamic visuals, and highlights of key data projects including:
+
+- **Global Temperature Anomaly Analysis**
+- **Predictive Modeling with the Titanic Dataset**
+- **Job Satisfaction Analysis at BRAC Bank**
+
+Tools Used: **Python | SQL | Tableau**
+
+> If you're looking for a passionate and analytical team player, I’d love to connect!
+
+**Watch now and feel free to share your feedback!**
+
+____
+
+
 ### My Resume Video
 [![Watch the video](https://img.youtube.com/vi/B3q3gMCKAlc/0.jpg)](https://youtu.be/B3q3gMCKAlc)
 
