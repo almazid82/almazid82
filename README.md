@@ -102,7 +102,7 @@ Here are some of the projects I'm working on or plan to develop:
 ### My Resume Video
 [![Watch the video](https://img.youtube.com/vi/B3q3gMCKAlc/0.jpg)](https://youtu.be/B3q3gMCKAlc)
 
-  <a href="https://youtube.com/shorts/B3q3gMCKAlc?si=hhSwci545-MR4_fd" target="_blank">
+  <a href="https://youtube.com/shorts/Y5kURMvjXNI?feature=share" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Watch+My+Resume+Video+Now!;See+My+Skills+in+Action.;Click+%26+Explore+My+Journey!" alt="Typing SVG" />
   </a>
 </p>
