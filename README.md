@@ -105,23 +105,6 @@ Here are some of the projects I'm working on or plan to develop:
 
 [![Watch the video](https://img.youtube.com/vi/Y5kURMvjXNI/hqdefault.jpg)](https://youtube.com/shorts/Y5kURMvjXNI?feature=share)
 
-I’m excited to share my updated **video resume**, featuring voice narration, dynamic visuals, and highlights of key data projects including:
-
-- **Global Temperature Anomaly Analysis**
-- **Predictive Modeling with the Titanic Dataset**
-- **Job Satisfaction Analysis at BRAC Bank**
-
-Tools Used: **Python | SQL | Tableau**
-
-> If you're looking for a passionate and analytical team player, I’d love to connect!
-
-**Watch now and feel free to share your feedback!**
-
-____
-
-
-### My Resume Video
-[![Watch the video](https://img.youtube.com/vi/B3q3gMCKAlc/0.jpg)](https://youtu.be/B3q3gMCKAlc)
 
   <a href="https://youtube.com/shorts/Y5kURMvjXNI?feature=share" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Watch+My+Resume+Video+Now!;See+My+Skills+in+Action.;Click+%26+Explore+My+Journey!" alt="Typing SVG" />
