@@ -1,4 +1,4 @@
-p align="center">
+
   <img src="https://github.com/almazid82/almazid82/blob/main/Yuppies%20Collage%20General%20LinkdIn%20Banner%20for%20my%20git%20hub.jpg?raw=true" alt="GitHub Banner" width="100%"/>
 </p>
 
