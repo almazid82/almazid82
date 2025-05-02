@@ -104,7 +104,12 @@ Here are some of the projects I'm working on or plan to develop:
   ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
   ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-teal?style=flat-square)
 ----
+## 📄 My Resume
 
+[![Download Resume](https://img.shields.io/badge/-Download%20My%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/almazid82/almazid82/blob/main/MY%20FInal%20resume%20in%20PDF.pdf?raw=true)
+
+
+---
 
 ## 🎥 Video Resume – Data Analyst | Python, SQL, Tableau Projects
 
