@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <em>Aspiring Data Analyst | Python & SQL Enthusiast | Curious Explorer of Data Stories</em>
+  <em> Data Enthusiast | On a Mission to Master Insights | Python & SQL Enthusiast | Curious Explorer of Data Stories</em>
 </p>
 
 
