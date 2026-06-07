@@ -6,18 +6,18 @@
 
 
 
-<h3 align="center"> ✨Let the data speak. I just translate the truth behind the numbers✨</span></i></h3>
+<h3 align="center"> ✨Let the data speak. I just translate the truth behind the numbers✨</h3>
 
 
 
 <p align="center">
-  <em> Data Enthusiast | On a Mission to Master Insights | Python & SQL Enthusiast | Curious Explorer of Data Stories</em>
+  <em>Data Scientist in Training | Climate & Demographic Analytics | Python · SQL · Tableau | B.Sc. Statistics</em>
 </p>
 
 
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Driven+by+Insights+%26+Impact;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;B.Sc+in+Statistics;Govt.+Titumir+College;University+of+Dhaka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Climate+%26+Statistical+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;B.Sc+in+Statistics;Applying+for+Master%27s+in+Data+Science;European+Universities+%E2%80%94+2026" alt="Typing SVG" />
 </p>
 
 
@@ -50,11 +50,11 @@ ___
 </p>
 
 
-- 🎯 Currently learning **Python**, **SQL**, and **Business Intelligence** tools.
-- 🧠 Interested in real-world **data analysis** and creating insights from complex datasets.
-- 💬 Love working on analytical challenges in **finance**, **supply chain**, and **public policy**.
-- 🤝 Always open to collaboration on meaningful data projects.
-- 😄 Pronouns: He/Him
+- 🎓 Applying for **Master's in Data Science / AI** at European universities — 2026 intake.
+- 🌍 Focused on **Climate Analytics** — applying statistical methods to environmental and socioeconomic challenges in South Asia.
+- 🔬 Proficient in **Python**, **SQL**, and **BI tools** — building expertise in **Statistical Modeling**, **Time Series Analysis**, and **Machine Learning**.
+- 📊 Projects span **climate science**, **public health**, **demographic trends**, and **workforce analytics**.
+- 🤝 Open to collaboration on data projects with real-world impact.
 - ⚡ Fun fact: I treat every dataset like a mystery waiting to be solved!
 
 ---
@@ -62,7 +62,7 @@ ___
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shamsul-al-mazid-073a87286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shamsul-al-mazid-073a87286)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sondartara.tara.777)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamsulalmazid@gmail.com)
 
@@ -85,10 +85,12 @@ ___
 Here are some of the projects I'm working on or plan to develop:
 
 - **[HeatMap - Understanding Global Temperature Anomalies](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies)**  
-  🔥 *Visualizing climate change patterns and CO₂ impacts*  
+  🔥 *Statistical analysis of NASA GISS temperature anomalies (1880–2024) — trend analysis, CO₂ correlation (r=0.97), seasonal heatmap, and 2050 forecast via Linear Regression*  
   ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-9E6A9D?style=flat-square)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 - **[DemoCraft Analytics](https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-)**  
   🌍 *Exploring global population growth trends and their socioeconomic impact*  
@@ -101,9 +103,23 @@ Here are some of the projects I'm working on or plan to develop:
   ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-yellow?style=flat-square)
 
 - **[COVID-19 Global Pilot Dataset Analysis](https://github.com/almazid82/COVID19-Pilot-Analysis-Ban-vs-Ind-)**  
-  🧪 *Analyzing pilot dataset insights before full-scale COVID-19 data exploration*  
+  🧪 *Comparative analysis of COVID-19 patterns — Bangladesh vs India — using real WHO/government data*  
   ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
   ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-teal?style=flat-square)
+
+- **[Job Satisfaction Analysis](https://github.com/almazid82/job-satisfaction-analysis-contribution)**  
+  📋 *Chi-square test & Logistic Regression on BRAC Bank employee data — identifying key drivers of workplace satisfaction*  
+  ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+  ![Statistics](https://img.shields.io/badge/-Statistics-8A2BE2?style=flat-square)
+  ![Scikit-Learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+- **[ClimateScope Bangladesh & South Asia](https://github.com/almazid82)** *(In Development)*  
+  🌏 *Flagship project — Multi-method statistical analysis of climate change impacts, flood frequency, and GDP loss (1950–2024) using NASA, NOAA, and World Bank data. Includes ARIMA, Random Forest, and policy recommendations.*  
+  ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+  ![ARIMA](https://img.shields.io/badge/-Time_Series-006400?style=flat-square)
+  ![ML](https://img.shields.io/badge/-Machine_Learning-yellow?style=flat-square)
+  ![In Progress](https://img.shields.io/badge/-In_Development-orange?style=flat-square)
+
 ----
 ## 📄 My Resume
 
