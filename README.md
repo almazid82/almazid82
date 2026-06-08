@@ -150,12 +150,15 @@
   ![Statistics](https://img.shields.io/badge/-Statistics-8A2BE2?style=flat-square)
   ![Scikit-Learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- **[ClimateScope Bangladesh & South Asia](https://github.com/almazid82)** *(🚧 In Development)*
+- **[ClimateScope Bangladesh & South Asia](https://climatescope-bangladesh-tha93d72fvtx5gfchsmqqx.streamlit.app/)** *(🚧 In Development)*
   > 🌏 Flagship project — Multi-method statistical analysis of climate change impacts, flood frequency, and GDP loss (1950–2024) using NASA, NOAA, and World Bank data. Includes ARIMA, Random Forest, and policy recommendations.
+  >
+  > 🔗 **[Live Dashboard](https://climatescope-bangladesh-tha93d72fvtx5gfchsmqqx.streamlit.app/)** | [Repository](https://github.com/almazid82)
 
   ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
   ![ARIMA](https://img.shields.io/badge/-Time_Series-006400?style=flat-square)
   ![ML](https://img.shields.io/badge/-Machine_Learning-yellow?style=flat-square)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
   ![In Progress](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)
 
 ---
